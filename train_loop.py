@@ -114,7 +114,7 @@ for combination in combinations:
     )
 
     model = MNISTClassifier(v_para)
-    logger = CSVLogger("logs", name=run_id)
+    logger = CSVLogger("models_complete", name=run_id)
 
     trainer = pl.Trainer(min_epochs=1, max_epochs=20, logger=logger)
 
