@@ -20,3 +20,9 @@ all there metrics are merged in single csv file `data.csv` that load into simple
 
 # Lastly
 In jupyter notebook `analysis_v01.ipynb` we load the db and do our analysis ^_^
+
+## Figure 1: Optimizer accuracy & Losses vs Learning Rate
+![Figure 1: Optimizer accuracy & Losses vs Learning Rate](https://github.com/Hosen1989/Comparative-Image-Classifiers/blob/main/info/figure_01.png)
+
+## Figure 2: Accuracy vs Epoch
+![Figure 2: Accuracy vs Epoch](https://github.com/Hosen1989/Comparative-Image-Classifiers/blob/main/info/figure_02.png)
